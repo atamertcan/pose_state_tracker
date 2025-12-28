@@ -22,7 +22,7 @@ The system tracks the duration of each posture and automatically exports the beh
 
 > **Note:** Below are examples of the application detecting different postures in real-time.
 
-| Sitting Detection | Standing Detection |
+| State 1 | State 2 |
 |:---:|:---:|
 | ![Example 1](screenshots/1.png) | ![Example 2](screenshots/2.png) |
 
